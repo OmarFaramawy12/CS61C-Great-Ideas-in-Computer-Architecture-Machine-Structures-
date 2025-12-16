@@ -1,5 +1,8 @@
-This Repo contains the solutions to:\n
-    a- Labs 
-    b- Homeworks
-    c- Discussions
+This Repo contains the solutions to:  
+    a- Labs  
+    b- Homeworks  
+    c- Labs  
+    
+    
+
 
